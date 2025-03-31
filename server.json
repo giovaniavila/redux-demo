@@ -1,0 +1,42 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Camiseta",
+      "price": 29.99
+    },
+    {
+      "id": 2,
+      "title": "Calça Jeans",
+      "price": 59.99
+    },
+    {
+      "id": 3,
+      "title": "Tênis Esportivo",
+      "price": 89.99
+    },
+    {
+      "id": 4,
+      "title": "Jaqueta de Couro",
+      "price": 149.99
+    }
+  ],
+  "stock": [
+    {
+      "id": 1,
+      "quantity": 50
+    },
+    {
+      "id": 2,
+      "quantity": 30
+    },
+    {
+      "id": 3,
+      "quantity": 20
+    },
+    {
+      "id": 4,
+      "quantity": 10
+    }
+  ]
+}
