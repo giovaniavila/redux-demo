@@ -1,11 +1,13 @@
-import { Cart } from "./components/Cart";
-import { Catalog } from "./components/Catalog";
+import { ProductList } from "./components/ProductList";
+import { Cart } from "./features/cart/Cart";
 
 function App() {
-  return <div>
-    <Catalog/>
-    <Cart/>
-  </div>;
+  return (
+    <div>
+      <ProductList />
+      <Cart />
+    </div>
+  );
 }
 
 export default App;
